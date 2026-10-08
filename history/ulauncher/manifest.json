@@ -1,0 +1,19 @@
+{
+  "required_api_version": "2",
+  "name": "Serenity",
+  "description": "Serenity ulauncher",
+  "developer_name": "AnotherTwinkle",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.1
+  },
+  "preferences": [
+    {
+      "id": "srn_kw",
+      "type": "keyword",
+      "name": "Serenity",
+      "description": "Serenity Extension",
+      "default_value": "sn"
+    }
+  ]
+}

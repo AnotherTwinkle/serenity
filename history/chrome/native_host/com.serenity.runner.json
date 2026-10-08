@@ -1,0 +1,11 @@
+{
+  "name": "com.serenity.runner",
+  "description": "Run Python script with URL",
+  "path": "/home/fijaj/Documents/cpnew/serenity/chrome/native_host/native_host.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://eegobkpjbpknmaannpnkcfehmmpgcbig/"
+  ]
+}
+
+# This file must be put in ~/.config/google-chrome/NativeMessagingHosts
